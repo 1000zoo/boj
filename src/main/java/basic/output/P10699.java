@@ -2,7 +2,7 @@
 //https://www.acmicpc.net/source/70762925
 //오늘 날짜
 
-package implementation;
+package basic.output;
 
 import java.time.LocalDate;
 
