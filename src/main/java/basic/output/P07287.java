@@ -1,5 +1,6 @@
 //2023-12-26
-//
+//https://www.acmicpc.net/source/70763491
+//등록
 
 package basic.output;
 
