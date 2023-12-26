@@ -6,7 +6,7 @@ package implementation;
 
 import java.time.LocalDate;
 
-public class TodayDate {
+public class P10699 {
 
     public static void main(String[] args) {
         LocalDate date = LocalDate.now();
