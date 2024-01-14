@@ -1,6 +1,8 @@
-package string;//2024-01-14
+//2024-01-14
 //https://www.acmicpc.net/problem/01157
 //단어 공부
+
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;
