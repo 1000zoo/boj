@@ -1,6 +1,8 @@
-package string;//2024-01-11
+//2024-01-11
 //https://www.acmicpc.net/problem/11655
 //ROT 13
+
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;
